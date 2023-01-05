@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-cls{
+    height: 700px; 
+    background-image: url('../images/donation10.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    
+}
+.header-text{
+    padding-top: 300px;
+    text-align: center;
+}
+.head-p{
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.head-title{
+    font-size: 50px;
+    color: white;
+    padding-top: 20px;
+}
+
+.btn-primary{
+   font-size: 20px; 
+   padding: 10px 10px;
+   background: rgb(249, 41, 34);
+   border: none;
+   color: white;
+   border-radius: 5px;
+   
+}
+.btn-primary:hover{
+   border: 2px solid rgb(45, 51, 224);
+   display: inline-block;
+}
+/* main area */
+.main-title{
+  font-size: 34px;
+  padding-bottom: 10px;
+}
+.main-p{
+
+}
+.main-list{
+  display: flex;
+  
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.meduim{
+    padding-top: 130px;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    align-items: center;
+}
+.amount{
+    margin-left:29px;
+   
+    padding: 28px 23px;
+   
+    
+}
+.amount:hover{
+    background: #e0888888;
+    border: 2px solid black;
+    border: none;
+    
+    box-sizing: border-box;
+}
