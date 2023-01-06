@@ -31,7 +31,7 @@
    font-size: 20px; 
    padding: 10px 10px;
    background: rgb(249, 41, 34);
-   border: none;
+   border: 2px solid transparent;
    color: white;
    border-radius: 5px;
    
@@ -63,7 +63,7 @@
 }
 .amount{
     margin-left:29px;
-   
+    border: 2px solid transparent;
     padding: 28px 23px;
    
     
@@ -71,7 +71,7 @@
 .amount:hover{
     background: #e0888888;
     border: 2px solid black;
-    border: none;
+   
     
     box-sizing: border-box;
 }
